@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/ng-complete-guide-update",
+    "public": "dist/recipe-book-app",
     "ignore": [
       "firebase.json",
       "**/.*",
